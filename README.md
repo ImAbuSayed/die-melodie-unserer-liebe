@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter in der Stadt, greif nach meiner Hand im Wagen,
+> Ich will keine Limits mehr, lass uns heute alles wagen.
+> Dein Herzschlag ist der Beat, die Melodie unserer Liebe,
+> Baby, schau mir ins Gesicht, spür, wie ich mit dir hoch fliege.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
